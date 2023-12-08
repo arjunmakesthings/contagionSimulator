@@ -1,2 +1,2 @@
-# contagionSimulator
-Contagion simulator built during the Xperimenters programme at Science Gallery Bengaluru
+# Read More
+Read more here – https://arjunmakesthings.github.io/projects/contagion-simulator.html 
